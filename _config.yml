@@ -1,2 +1,12 @@
 theme: minima
+title: Leonardo Bueno
+author: Leonardo Bueno
+description: My personal website
+
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - cv.md
+
   
