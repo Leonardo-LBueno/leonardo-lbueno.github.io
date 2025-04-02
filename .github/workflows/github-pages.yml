@@ -5,29 +5,45 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
-  github-pages:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-ruby@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1
+          ruby-version: '3.1'
+
       - name: Install dependencies
         run: |
           gem install bundler
           bundle config set --local path 'vendor/bundle'
           bundle install
-      - name: Build site with Jekyll
+
+      - name: Build site
         run: bundle exec jekyll build
-      - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v1
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./_site
-      - name: Deploy GitHub Pages
-        uses: actions/deploy-pages@v1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
