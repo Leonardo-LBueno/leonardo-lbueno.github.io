@@ -3,7 +3,7 @@ email: lbueno@ucsd.edu
 description: >-
   Political scientist studying the political economy of development. Main themes include distributive politics, local politics, urban and health policies.
 baseurl: "" # leave this empty if using username.github.io
-url: "https://leonardo-lbueno.github.io/website" # change this to match your URL
+url: "https://leonardo-lbueno.github.io" # change this to match your URL
 
 theme: minimal-mistakes-jekyll
 
