@@ -1,13 +1,38 @@
-theme: minima
-title: Leonardo Bueno
-author: Leonardo Bueno
-description: My personal website
+title: "Leonardo Bueno"
+email: lbueno@ucsd.edu
+description: >-
+  Political scientist studying the political economy of development. Main themes include distributive politics, local politics, urban and health policies.
+baseurl: "" # leave this empty if using username.github.io
+url: "https://leonardo-lbueno.github.io/website" # change this to match your URL
 
-header_pages:
-  - index.md
-  - research.md
-  - teaching.md
-  - cv.md
+theme: minimal-mistakes-jekyll
 
-  
+# Site author
+author:
+  avatar: "/assets/images/profile.jpg"
+  bio: "PhD Candidate | Political Science | UC San Diego"
+  location: "San Diego, CA"
+  email: lbueno@ucsd.edu
+
+# Social media (optional)
+#twitter_username: leonardo
+#github_username:  Leonardo-LBueno
+
+# Enable top navigation
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 
