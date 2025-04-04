@@ -1,37 +1,5 @@
+theme: jekyll-theme-minimal
+
 title: "Leonardo Bueno"
-email: lbueno@ucsd.edu
-description: >-
-  Political scientist studying the political economy of development. Main themes include distributive politics, local politics, urban and health policies.
-baseurl: "" # leave empty for user/organization site
-url: "https://leonardo-lbueno.github.io" # your full GitHub Pages URL
-
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
-
-# Author settings
-author:
-  name: "Leonardo Bueno"
-  avatar: "/assets/images/profile.jpg"
-  bio: "PhD Candidate | Political Science | UC San Diego"
-  location: "San Diego, CA"
-  email: lbueno@ucsd.edu
-
-# Navigation bar (uses _data/navigation.yml)
-include:
-  - _pages
-
-# Default layout settings for all pages
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-# Optional: social links (add if/when you want)
-#social:
-#  github: Leonardo-LBueno
-#  twitter: yourhandle
-#  scholar: your-scholar-id
+description: "PhD Candidate | Political Science | UC San Diego"
+logo: /assets/images/profile.jpg
