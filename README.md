@@ -20,10 +20,11 @@ With <a href="https://nataliabueno.github.io/">Natalia Bueno</a>, <a href="https
 <h3> It is not (just) the economy, stupid: Policy Innovation and Retrospective Voting in São Paulo, Brazil. </h3>
 With <a href="https://eaesp.fgv.br/pessoa/ciro-biderman">Ciro Biderman</a>, and <a href="https://eaesp.fgv.br/pessoa/george-avelino-filho">George Avelino</a>, and <a href="https://joaoguedesneto.github.io/"> João V. Guedes-Neto </a>.
 
-<h3><a Race and Substantive Representation: Evidence from Brazil.</a></h3> 
+<h3> Race and Substantive Representation: Evidence from Brazil.</h3> 
 With <a href="https://desposato.org/">Scott Desposato</a>, and <a href="https://www.andrewjanusz.com/">Andrew Janusz</a> 
 
-*	Violent Legacies of Dictatorship in Brazil. With Mariana Carvalho and Tiago Ventura.
+<h3>	Violent Legacies of Dictatorship in Brazil. </h3> 
+With <a href="https://www.maricarvalho.com/">Mariana Carvalho</a>, and <a href="https://www.venturatiago.com/">Tiago Ventura</a>.
 
 ## Work in Progress
 
