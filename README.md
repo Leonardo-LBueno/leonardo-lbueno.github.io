@@ -34,5 +34,6 @@ With <a href="https://www.maricarvalho.com/">Mariana Carvalho</a>, and <a href="
 ## Policy 
 
 <h3><a href="assets/papers/REPORT TETO + FGV - COVID 19 (English).pdf"> Covid-19: Challenges and Resilience in the Favelas.</a></h3>
-This policy report comes from a three-year field experiment in partnership with TECHO, evaluating the effects of emergency housing on COVID-19 distancing measures, mental well-being, and civic engagement in over 600 families across six Brazilian states. 
+This policy report comes from a three-year field experiment in partnership with TECHO, evaluating the effects of emergency housing on COVID-19 distancing measures, mental well-being, and civic engagement in over 600 families across six Brazilian states.
+
 Media: <a href="https://globoplay.globo.com/v/8855602/">SP2 Globo</a>, <a href="https://economia.uol.com.br/noticias/redacao/2021/11/08/covid-deixou-45-dos-moradores-de-favelas-sem-emprego-mostra-fgv.htm"> Uol</a>, <a href="https://www.poder360.com.br/brasil/46-dos-moradores-de-favela-relatam-dificuldades-para-comprar-comida/"> Poder 360.<a/>   
