@@ -14,12 +14,15 @@ My research and policy interests are:
 
 ## Working Papers
 
-<h3><a href="assets/papers/Health_TETO.pdf"> Housing, Social Cohesion, and Mental Health: Experimental Evidence from Brazilian Slums</a></h3>
+<h3><a href="assets/papers/Health_TETO.pdf"> Housing, Social Cohesion, and Mental Health: Experimental Evidence from Brazilian Slums.</a></h3>
 With <a href="https://nataliabueno.github.io/">Natalia Bueno</a>, <a href="https://sites.google.com/site/danielddamata/home">Daniel Da Mata</a>, <a href="https://eaesp.fgv.br/pessoa/ciro-biderman">Ciro Biderman</a>, and <a href="https://eaesp.fgv.br/pessoa/george-avelino-filho">George Avelino</a>
 
- 
-*	It is not (just) the economy, stupid: Policy Innovation and Retrospective Voting in São Paulo, Brazil. With Ciro Biderman, George Avelino, and João V. Guedes-Neto.
-*	Race and Substantive Representation: Evidence from Brazil. With Scott Desposato and Andrew Janusz.
+<h3><a It is not (just) the economy, stupid: Policy Innovation and Retrospective Voting in São Paulo, Brazil. </a></h3>
+With <a href="https://eaesp.fgv.br/pessoa/ciro-biderman">Ciro Biderman</a>, and <a href="https://eaesp.fgv.br/pessoa/george-avelino-filho">George Avelino</a>, and <a href="https://joaoguedesneto.github.io/"> João V. Guedes-Neto </a>.
+
+<h3><a Race and Substantive Representation: Evidence from Brazil.</a></h3> 
+With <a href="https://desposato.org/">Scott Desposato</a>, and <a href="https://www.andrewjanusz.com/">Andrew Janusz</a> 
+
 *	Violent Legacies of Dictatorship in Brazil. With Mariana Carvalho and Tiago Ventura.
 
 ## Work in Progress
