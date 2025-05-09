@@ -17,7 +17,7 @@ My research and policy interests are:
 <h3><a href="assets/papers/Health_TETO.pdf"> Housing, Social Cohesion, and Mental Health: Experimental Evidence from Brazilian Slums.</a></h3>
 With <a href="https://nataliabueno.github.io/">Natalia Bueno</a>, <a href="https://sites.google.com/site/danielddamata/home">Daniel Da Mata</a>, <a href="https://eaesp.fgv.br/pessoa/ciro-biderman">Ciro Biderman</a>, and <a href="https://eaesp.fgv.br/pessoa/george-avelino-filho">George Avelino</a>
 
-<h3> It is not (just) the economy, stupid: Policy Innovation and Retrospective Voting in São Paulo, Brazil. </h3>
+<h3><a href="assets/papers/Restrospective Voting (Long Paper).pdf"> It is not (just) the economy, stupid: Policy Innovation and Retrospective Voting in São Paulo, Brazil.</a></h3>
 With <a href="https://eaesp.fgv.br/pessoa/ciro-biderman">Ciro Biderman</a>, and <a href="https://eaesp.fgv.br/pessoa/george-avelino-filho">George Avelino</a>, and <a href="https://joaoguedesneto.github.io/"> João V. Guedes-Neto </a>.
 
 
