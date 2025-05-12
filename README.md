@@ -45,26 +45,22 @@ This policy report comes from a three-year field experiment in partnership with 
 
 Media: <a href="https://globoplay.globo.com/v/8855602/">SP2 Globo</a>, <a href="https://economia.uol.com.br/noticias/redacao/2021/11/08/covid-deixou-45-dos-moradores-de-favelas-sem-emprego-mostra-fgv.htm"> Uol</a>, <a href="https://www.poder360.com.br/brasil/46-dos-moradores-de-favela-relatam-dificuldades-para-comprar-comida/"> Poder 360.<a/>   
 
-<h3><a href="assets/papers/WRI_DRT_Global_Review.pdf">Demand-Responsive Transit: A Global Review</a></h3>
-Co-authored with WRI Mexico, this report catalogs 150+ on-demand transit systems and proposes a typology for emerging mobility models.
+<h3><a href="assets/papers/Demand_Responsive_Transit_FINAL_0.pdf">Demand-Responsive Transit: A Global Review</a></h3>
+WRI Working Paper, co-authored with WRI Mexico, this report catalogs 150+ on-demand transit systems and proposes a typology for emerging mobility models.
 
-<h3><a href="assets/papers/Paulista_Aberta_LABMOB.pdf">Paulista Aberta: Evaluating Urban Interventions</a></h3>
+<h3><a href="assets/papers/BOOKLET_R01.pdf">Paulista Aberta: Evaluating Urban Interventions</a></h3>
 Study on São Paulo’s Sunday car-free initiative on Paulista Avenue, analyzing its effects on mobility, pollution, and commerce using survey and synthetic control methods.
 
-<h3><a href="assets/papers/Transit_Safety_Areas_SP.pdf">Transit Safety Zones in São Paulo</a></h3>
+<h3><a href="assets/papers/Relatório_SãoMiguelPaulista.pdf">Transit Safety Zones in São Paulo</a></h3>
 Developed a methodology for “Transit Safety Areas” with Bloomberg Philanthropies and São Paulo’s government to reduce pedestrian fatalities.
 
-<h3><a href="assets/papers/Plano_Bairro_Jardim_Lapena.pdf">Jardim Lapena Neighborhood Plan</a></h3>
+<h3><a href="https://cepesp.fgv.br/sites/default/files/2023-12/PlanodeBairro_Lapenna-1%20%281%29.pdf">Jardim Lapena Neighborhood Plan</a></h3>
 Participatory urban plan created with residents of a peripheral São Paulo neighborhood, focused on infrastructure and citizen engagement.
 
-<h3><a href="assets/papers/Transpo_Reform_Sao_Jose.pdf">Public Transportation Reform in São José dos Campos</a></h3>
+<h3><a href="assets/papers/P3_Relatório de benchmark_pte1.pdf">Public Transportation Reform in São José dos Campos</a></h3>
 Consulted for the city on redesigning its public transportation system through financial feasibility studies and auction planning.
 
-<h3><a href="assets/papers/Energy_Emissions_Instituto_Escolhas.pdf">The Impact of Brazil’s Electricity Matrix on Emissions</a></h3>
+<h3><a href="assets/papers/Impactos_de_Mudanças_na_Matriz_Elétrica_Brasileira-SUMÁRIO-EXECUTIVO.pdf">The Impact of Brazil’s Electricity Matrix on Emissions</a></h3>
 Analysis of how electricity generation scenarios affect emissions, jobs, and GDP in Brazil, conducted with Instituto Escolhas.
 
-<h3><a href="assets/papers/Scooter_Safety_Analysis_LABMOB.pdf">Shared Electric Scooters and Transit Accidents</a></h3>
-Time-series study of scooter accidents in São Paulo, with projections and policy suggestions for safer urban mobility.
 
-<h3><a href="assets/papers/Property_Tax_Mexico_WorldBank.pdf">Improving Property Taxation in Mexico</a></h3>
-Project with the World Bank on reforming property tax systems in Mexico to improve revenue collection and fiscal equity.
