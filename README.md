@@ -22,6 +22,16 @@ This paper examines whether innovative public policy at the local level can gene
 
 ## Work in Progress
 
+<h3> Why Universal Isn’t Equal: Political Favoritism in Brazil’s Public Health System. </h3>
+Chapter One - Ph.D. Dissertation.
+
+This paper examines how political favoritism persists within Brazil’s universal healthcare system. Using administrative data on hospitalizations and a regression discontinuity design, I show that candidates for city council who are politically aligned with the mayor are significantly more likely to be hospitalized during the mayor’s term — a sign of discretionary access to care. Despite the universal and rights-based nature of Brazil’s public health system (SUS), access to essential services like hospital beds remains shaped by local political dynamics. The findings reveal how political connections can persist even in formally egalitarian systems, raising broader questions about equity, accountability, and the functioning of universal welfare programs in unequal democracies.
+
+<h3> Hierarchies of Power: Political Alignment and Unequal Access to Health Services in Brazil </h3>
+Chapter Two - Ph.D. Dissertation.
+
+This paper examines how inter-municipal political hierarchies shape access to public healthcare in Brazil. Building on insights from agglomeration economy models, I argue that more urbanized municipalities — which concentrate healthcare infrastructure and higher complexity treatment facilities — hold a comparative advantage within their health districts. Mayors of these urban centers can use their control over scarce resources to build political support in neighboring peripheral towns. Leveraging variation in political alignment between municipalities within the same health region, I show that peripheral towns governed by aligned mayors receive preferential access to health services. These findings reveal how political coordination across municipalities mediates access to essential care, challenging assumptions that decentralized health systems function according to epidemiological need. The paper contributes to broader debates on clientelism, regional inequality, and the political economy of public service provision.
+  
 <h3> Race and Substantive Representation: Evidence from Brazil. </h3> 
 With <a href="https://desposato.org/">Scott Desposato</a>, and <a href="https://www.andrewjanusz.com/">Andrew Janusz </a> 
 
