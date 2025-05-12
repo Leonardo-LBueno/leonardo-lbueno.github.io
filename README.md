@@ -1,12 +1,6 @@
 # Welcome
 
-I am a Political Science Ph.D. candidate at University of California, San Diego. 
-My research and policy interests are:
-
--	Political Economy of Development
--	Local politics and the distribution of policies
--	Urban Politics and Policy
--	Health Policy and Inequality
+I’m a Ph.D. candidate in Political Science at the University of California, San Diego, where I study how politics shapes the distribution of public goods in unequal democracies. My research centers on the political economy of development, focusing on local politics, urban policy, and the governance of essential services such as healthcare, transportation, and housing. I combine quantitative methods with field-based insights to examine when and why elected officials use local policies as instruments of political strategy. Outside academia, I’ve worked with NGOs, governments, and international organizations on initiatives addressing health, mobility, housing, and urban inequality across Latin America.
 
 
 
